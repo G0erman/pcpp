@@ -1,10 +1,10 @@
-! Deployment steps
+# Deployment steps
 
 0. You have docker properly configured in an EC2 instance.
 1. Clone the repo
 
 ```
-$ git clone
+$ git clone https://github.com/G0erman/pcpp.git
 $ tree
 .
 ├── Dockerfile
