@@ -1,4 +1,4 @@
-# Deployment steps
+# Deploy json-server in an EC2 instance.
 
 0. You have docker properly configured in an EC2 instance.
 1. Clone the repo
